@@ -1,0 +1,466 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=VT323&display=swap');
+
+/* General Reset */
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'VT323', monospace;
+  background-color: #000000;
+  color: #f4f4f4;
+}
+
+/* Container */
+.container {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem;
+  background-color: rgba(10, 10, 10, 0.9);
+  border: 3px solid #d32aff;
+  box-shadow: 0 0 25px #d32aff55;
+  border-radius: 8px;
+  width: 90vw;
+}
+
+/* Header */
+.header .title {
+  font-family: 'Bebas Neue', cursive;
+  font-size: 3rem;
+  text-align: center;
+  color: #d32aff;
+  text-shadow: 2px 2px #000;
+}
+
+.subtitle {
+  font-family: 'Bangers', cursive;
+  font-size: 1.4rem;
+  text-align: center;
+  color: #e875ff;
+  margin-bottom: 0;
+  text-shadow: 1px 1px #000;
+  line-height: 1.6;
+  max-width: 100%;
+  white-space: pre-line;
+}
+
+/* Input Section */
+.input-block {
+  display: flex;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  background-color: #111;
+  padding: 1rem;
+  border-radius: 6px;
+  border: 1px solid #3a3a3a;
+  box-shadow: 0 0 10px #000;
+}
+
+.input-block > div {
+  flex: 1;
+  padding-right: 0.75rem;
+  position: relative;
+}
+
+input[type="text"] {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0.7rem;
+  border: 2px solid #d32aff;
+  border-radius: 4px;
+  background-color: #0e0e0e;
+  color: #fff;
+  font-size: 1rem;
+  box-shadow: inset 0 0 5px #000;
+  min-width: 0;
+}
+
+button {
+  background-color: #e875ff;
+  color: #111;
+  border: none;
+  padding: 0.7rem 1.2rem;
+  font-weight: bold;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background 0.2s;
+  box-shadow: 0 0 8px #d32aff44;
+  white-space: nowrap;
+}
+
+button:hover {
+  background-color: #f088ff;
+}
+
+/* Band Dropdown — scope this rule to just the search suggestions */
+.input-block ul {
+  position: absolute;
+  top: calc(100% + 0.25rem);
+  left: 0;
+  right: 0;
+  background-color: #1a1a1a;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: 1px solid #a94edc;
+  max-height: 200px;
+  overflow-y: auto;
+  z-index: 5;
+}
+
+ul li {
+  padding: 0.5rem;
+  cursor: pointer;
+  border-bottom: 1px solid #333;
+  color: #fff;
+}
+
+ul li:hover {
+  background-color: #2a2a2a;
+}
+
+/* Guess Block */
+.guess-block {
+  background-color: #1a1a1a;
+  padding: 1rem;
+  border-radius: 6px;
+  margin-bottom: 1rem;
+  border-left: 6px solid #d32aff;
+  box-shadow: inset 0 0 10px #000, 0 0 10px #d32aff33;
+}
+
+.guess-block h3 {
+  margin: 0 0 0.5rem;
+  color: #fff;
+}
+
+/* Hint System */
+.hint-grid {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-top: 0.5rem;
+  max-width: 250px;
+}
+
+.hint-box {
+  border-radius: 6px;
+  padding: 0.6rem;
+  font-weight: bold;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border: 2px solid transparent;
+  color: #fff;
+}
+
+.hint-box.match {
+  background-color: #d32aff;
+  border-color: #d32aff;
+  animation: glowMatch 0.4s ease-out;
+}
+
+.hint-box.close {
+  background-color: #f2e85c;
+  border-color: #f2e85c;
+  color: #111;
+  animation: glowClose 0.4s ease-out;
+}
+
+.hint-box.miss {
+  background-color: #444;
+  border-color: #444;
+  color: #ddd;
+}
+
+@keyframes glowMatch {
+  0% { box-shadow: 0 0 0px #d32aff; }
+  100% { box-shadow: 0 0 15px #d32aff88; }
+}
+
+@keyframes glowClose {
+  0% { box-shadow: 0 0 0px #f2e85c; }
+  100% { box-shadow: 0 0 12px #f2e85c88; }
+}
+
+.hint-key {
+  font-size: 0.9rem;
+}
+
+.hint-value {
+  font-size: 1.1rem;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.hint-arrow {
+  font-size: 1rem;
+  margin-left: 0.4rem;
+}
+
+/* Result Message */
+.result {
+  font-size: 2rem;
+  font-weight: bold;
+  text-align: center;
+  color: #66ffc2;
+  margin-top: 2rem;
+  animation: pulse 1s ease-in-out infinite;
+  text-shadow: 0 0 8px #66ffc288;
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); opacity: 1; }
+  50% { transform: scale(1.05); opacity: 0.85; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+.result:before {
+  content: '⚡ ';
+}
+
+.guesses {
+  margin-bottom: 2rem;
+}
+
+/* Responsive */
+@media (max-width: 500px) {
+  .subtitle {
+    font-size: 1.2rem;
+  }
+
+  .result {
+    font-size: 1.6rem;
+  }
+
+  .input-block {
+    flex-direction: column;
+  }
+
+  input[type="text"],
+  button {
+    width: 100%;
+    margin: 0 0 0.75rem 0;
+  }
+
+  button {
+    min-width: unset;
+  }
+
+  .input-block > div {
+    padding-right: 0;
+  }
+
+  ul {
+    top: auto;
+    position: static;
+  }
+}
+.info-button-wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 1rem 0;
+}
+
+.info-trigger {
+  font-family: 'VT323', monospace;
+  font-size: 1.2rem;
+  color: #f4f4f4;
+  background-color: #a94edc;
+  display: inline-block;
+  padding: 0.2rem 0.6rem;
+  border-radius: 50%;
+  cursor: pointer;
+  text-align: center;
+  box-shadow: 0 0 8px #a94edc55;
+  transition: background-color 0.2s ease;
+}
+
+.info-trigger:hover {
+  background-color: #c164f1;
+}
+/* Help modal styling */
+.help-button {
+  position: fixed;
+  top: 1rem;
+  left: 1rem;
+  font-family: 'VT323', monospace;
+  font-size: 1.5rem;
+  background-color: #a94edc;
+  color: #000;
+  border: none;
+  padding: 0.5rem 0.9rem;
+  border-radius: 8px;
+  cursor: pointer;
+  box-shadow: 0 0 12px #a94edc;
+  z-index: 1001;
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(10, 0, 20, 0.9);
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 3rem;
+  z-index: 1000;
+}
+
+.modal-content {
+  background: #0a0a0a;
+  color: #fff;
+  padding: 2rem;
+  border-radius: 12px;
+  width: 90%;
+  max-width: 550px;
+  box-shadow: 0 0 25px #a94edc99;
+  border: 2px solid #a94edc;
+  font-family: 'VT323', monospace;
+  font-size: 1.2rem;
+  position: relative;
+}
+
+.close-button {
+  position: absolute;
+  top: 0.7rem;
+  left: 0.7rem;
+  font-size: 1.5rem;
+  color: #fff;
+  background: #a94edc;
+  border: none;
+  border-radius: 6px;
+  padding: 0.25rem 0.7rem;
+  cursor: pointer;
+  box-shadow: 0 0 8px #a94edc;
+}
+
+.modal-title {
+  font-size: 1.6rem;
+  margin-bottom: 0.8rem;
+  color: #fff;
+}
+
+.hint-guide {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  margin-top: 0.6rem;
+}
+
+/* Hint boxes inside modal — let them behave like blocks */
+.hint-guide .hint-box {
+  display: block;
+  padding: 0.2rem 0.6rem;
+  border-radius: 6px;
+  font-weight: bold;
+  color: #fff;
+  margin-bottom: 0.4rem;
+}
+
+.hint-guide .match {
+  background-color: #d32aff;
+}
+
+.hint-guide .close {
+  background-color: #ffbb33;
+}
+
+.hint-guide .miss {
+  background-color: #555;
+}
+
+.modal-list {
+  list-style-type: none;
+  padding-left: 0;
+  margin-top: 0.5rem;
+}
+
+.modal-list li {
+  margin-bottom: 0.4rem;
+}
+.modal-list {
+  list-style: none;
+  padding-left: 0;
+  margin-top: 0.5rem;
+  font-size: 1.1rem;
+}
+
+.modal-list li {
+  margin-bottom: 0.4rem;
+}
+
+/* Override any dropdown-style look */
+.modal-list,
+.modal-list li {
+  max-height: unset !important;
+  overflow: visible !important;
+}
+
+/* Fix nested hint bullets */
+.hint-subpoints {
+  list-style-type: disc;
+  padding-left: 1.5rem;
+  margin: 0.3rem 0 0.5rem;
+  font-size: 1rem;
+}
+
+.hint-subpoints li {
+  margin-bottom: 0.2rem;
+}
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(10, 0, 20, 0.9);
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding-top: 3rem;
+  z-index: 1000;
+  overflow: auto;
+}
+
+.modal-content.scrollable {
+  max-height: calc(100vh - 6rem);
+  overflow-y: auto;
+}
+
+/* Fix layout for full hint in one line */
+.hint-guide .hint-box {
+  display: block;
+  padding: 0.4rem 0.7rem;
+  margin-bottom: 0.5rem;
+  font-weight: bold;
+  color: #fff;
+  border-radius: 6px;
+}
+
+.hint-guide .match {
+  background-color: #d32aff;
+}
+
+.hint-guide .close {
+  background-color: #f2e85c;
+  color: #111;
+}
+
+.hint-guide .miss {
+  background-color: #666;
+  color: #eee;
+}
+.hint-row {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  margin-bottom: 0.4rem;
+}
+
+.hint-text {
+  font-size: 1rem;
+}

@@ -1,0 +1,1568 @@
+[
+  {
+    "Name": "30 Seconds to Mars",
+    "Genre": "Alt Rock",
+    "Debut Year": 1998,
+    "Members": 3,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 78
+  },
+  {
+    "Name": "A Day to Remember",
+    "Genre": "Pop Punk / Metalcore",
+    "Debut Year": 2003,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 72
+  },
+  {
+    "Name": "AFI",
+    "Genre": "Alternative Rock / Punk",
+    "Debut Year": 1991,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 66
+  },
+  {
+    "Name": "Alice in Chains",
+    "Genre": "Grunge / Alt Metal",
+    "Debut Year": 1987,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 84
+  },
+  {
+    "Name": "All Time Low",
+    "Genre": "Pop Punk",
+    "Debut Year": 2003,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 80
+  },
+  {
+    "Name": "Alt-J",
+    "Genre": "Indie Rock / Art Pop",
+    "Debut Year": 2007,
+    "Members": 4,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 70
+  },
+  {
+    "Name": "Anberlin",
+    "Genre": "Alternative Rock",
+    "Debut Year": 2002,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 60
+  },
+  {
+    "Name": "Arcade Fire",
+    "Genre": "Indie Rock",
+    "Debut Year": 2001,
+    "Members": 6,
+    "Country": "🇨🇦",
+    "Frontperson": "Male",
+    "Popularity Score": 76
+  },
+  {
+    "Name": "Arctic Monkeys",
+    "Genre": "Indie Rock / Garage Rock",
+    "Debut Year": 2002,
+    "Members": 4,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 87
+  },
+  {
+    "Name": "Avril Lavigne",
+    "Genre": "Pop Punk / Alt Rock",
+    "Debut Year": 2002,
+    "Members": 1,
+    "Country": "🇨🇦",
+    "Frontperson": "Female",
+    "Popularity Score": 89
+  },
+  {
+    "Name": "AWOLNATION",
+    "Genre": "Electro Rock",
+    "Debut Year": 2009,
+    "Members": 1,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 74
+  },
+  {
+    "Name": "Band of Horses",
+    "Genre": "Indie Rock / Southern Rock",
+    "Debut Year": 2004,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 62
+  },
+  {
+    "Name": "Basement",
+    "Genre": "Emo / Grunge",
+    "Debut Year": 2009,
+    "Members": 5,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 55
+  },
+  {
+    "Name": "Bauhaus",
+    "Genre": "Goth Rock",
+    "Debut Year": 1978,
+    "Members": 4,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 65
+  },
+  {
+    "Name": "Beastie Boys",
+    "Genre": "Hip Hop / Rock",
+    "Debut Year": 1981,
+    "Members": 3,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 85
+  },
+  {
+    "Name": "Beck",
+    "Genre": "Alt Rock / Indie",
+    "Debut Year": 1993,
+    "Members": 1,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 81
+  },
+  {
+    "Name": "Bleachers",
+    "Genre": "Alt Pop",
+    "Debut Year": 2014,
+    "Members": 1,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 69
+  },
+  {
+    "Name": "blink-182",
+    "Genre": "Pop Punk",
+    "Debut Year": 1992,
+    "Members": 3,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 95
+  },
+  {
+    "Name": "Bloc Party",
+    "Genre": "Post-Punk Revival",
+    "Debut Year": 1999,
+    "Members": 4,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 71
+  },
+  {
+    "Name": "Blur",
+    "Genre": "Britpop / Alt Rock",
+    "Debut Year": 1988,
+    "Members": 4,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 86
+  },
+  {
+    "Name": "Bowling For Soup",
+    "Genre": "Pop Punk",
+    "Debut Year": 1994,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 68
+  },
+  {
+    "Name": "BOYS LIKE GIRLS",
+    "Genre": "Pop Punk",
+    "Debut Year": 2005,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 64
+  },
+  {
+    "Name": "Brand New",
+    "Genre": "Emo / Alt Rock",
+    "Debut Year": 2000,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 75
+  },
+  {
+    "Name": "Bring Me the Horizon",
+    "Genre": "Metalcore / Alt Metal",
+    "Debut Year": 2004,
+    "Members": 5,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 84
+  },
+  {
+    "Name": "Broken Social Scene",
+    "Genre": "Indie Rock / Post-Rock",
+    "Debut Year": 1999,
+    "Members": 9,
+    "Country": "🇨🇦",
+    "Frontperson": "Multiple",
+    "Popularity Score": 62
+  },
+  {
+    "Name": "Built To Spill",
+    "Genre": "Indie Rock",
+    "Debut Year": 1992,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 65
+  },
+  {
+    "Name": "Butthole Surfers",
+    "Genre": "Psychedelic Punk / Alt Rock",
+    "Debut Year": 1981,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 60
+  },
+  {
+    "Name": "Cage the Elephant",
+    "Genre": "Alt Rock",
+    "Debut Year": 2006,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 82
+  },
+  {
+    "Name": "Cake",
+    "Genre": "Alt Rock",
+    "Debut Year": 1991,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 68
+  },
+  {
+    "Name": "Cartel",
+    "Genre": "Pop Punk",
+    "Debut Year": 2003,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 60
+  },
+  {
+    "Name": "Chiodos",
+    "Genre": "Post-Hardcore",
+    "Debut Year": 2001,
+    "Members": 6,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 66
+  },
+  {
+    "Name": "CHVRCHES",
+    "Genre": "Synthpop / Indie",
+    "Debut Year": 2011,
+    "Members": 3,
+    "Country": "🇬🇧",
+    "Frontperson": "Female",
+    "Popularity Score": 74
+  },
+  {
+    "Name": "Circa Survive",
+    "Genre": "Post-Hardcore",
+    "Debut Year": 2004,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 67
+  },
+  {
+    "Name": "Coheed and Cambria",
+    "Genre": "Progressive Rock / Post-Hardcore",
+    "Debut Year": 2001,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 77
+  },
+  {
+    "Name": "Cold War Kids",
+    "Genre": "Indie Rock",
+    "Debut Year": 2004,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 70
+  },
+  {
+    "Name": "Coldplay",
+    "Genre": "Alt Rock / Pop Rock",
+    "Debut Year": 1996,
+    "Members": 4,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 95
+  },
+  {
+    "Name": "Cute Is What We Aim For",
+    "Genre": "Pop Punk",
+    "Debut Year": 2005,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 58
+  },
+  {
+    "Name": "Dance Gavin Dance",
+    "Genre": "Post-Hardcore / Experimental",
+    "Debut Year": 2005,
+    "Members": 6,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 70
+  },
+  {
+    "Name": "Dashboard Confessional",
+    "Genre": "Emo / Acoustic Rock",
+    "Debut Year": 1999,
+    "Members": 1,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 71
+  },
+  {
+    "Name": "Death Cab For Cutie",
+    "Genre": "Indie Rock / Emo",
+    "Debut Year": 1997,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 85
+  },
+  {
+    "Name": "Deftones",
+    "Genre": "Alt Metal",
+    "Debut Year": 1988,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 89
+  },
+  {
+    "Name": "Depeche Mode",
+    "Genre": "Synthpop / New Wave",
+    "Debut Year": 1980,
+    "Members": 3,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 90
+  },
+  {
+    "Name": "Dinosaur Jr.",
+    "Genre": "Indie Rock / Noise Rock",
+    "Debut Year": 1984,
+    "Members": 3,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 67
+  },
+  {
+    "Name": "Empire Of The Sun",
+    "Genre": "Synthpop / Electro",
+    "Debut Year": 2007,
+    "Members": 2,
+    "Country": "🇦🇺",
+    "Frontperson": "Male",
+    "Popularity Score": 69
+  },
+  {
+    "Name": "Escape the Fate",
+    "Genre": "Post-Hardcore",
+    "Debut Year": 2004,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 64
+  },
+  {
+    "Name": "Faith No More",
+    "Genre": "Alt Metal / Funk Metal",
+    "Debut Year": 1979,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 74
+  },
+  {
+    "Name": "Fall Out Boy",
+    "Genre": "Pop Punk / Emo",
+    "Debut Year": 2001,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 92
+  },
+  {
+    "Name": "Flaming Lips",
+    "Genre": "Psych Rock / Experimental",
+    "Debut Year": 1983,
+    "Members": 3,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 72
+  },
+  {
+    "Name": "Florence + The Machine",
+    "Genre": "Indie Rock / Baroque Pop",
+    "Debut Year": 2007,
+    "Members": 5,
+    "Country": "🇬🇧",
+    "Frontperson": "Female",
+    "Popularity Score": 88
+  },
+  {
+    "Name": "Foals",
+    "Genre": "Indie Rock / Math Rock",
+    "Debut Year": 2005,
+    "Members": 5,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 70
+  },
+  {
+    "Name": "Foo Fighters",
+    "Genre": "Alt Rock / Post-Grunge",
+    "Debut Year": 1994,
+    "Members": 6,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 96
+  },
+  {
+    "Name": "Forever The Sickest Kids",
+    "Genre": "Pop Punk / Power Pop",
+    "Debut Year": 2006,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 58
+  },
+  {
+    "Name": "Foster the People",
+    "Genre": "Indie Pop / Alt Rock",
+    "Debut Year": 2009,
+    "Members": 3,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 82
+  },
+  {
+    "Name": "Franz Ferdinand",
+    "Genre": "Post-Punk Revival",
+    "Debut Year": 2002,
+    "Members": 4,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 76
+  },
+  {
+    "Name": "Good Charlotte",
+    "Genre": "Pop Punk",
+    "Debut Year": 1996,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 78
+  },
+  {
+    "Name": "Green Day",
+    "Genre": "Punk Rock / Pop Punk",
+    "Debut Year": 1987,
+    "Members": 3,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 98
+  },
+  {
+    "Name": "Grouplove",
+    "Genre": "Indie Pop",
+    "Debut Year": 2009,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 70
+  },
+  {
+    "Name": "Hawthorne Heights",
+    "Genre": "Post-Hardcore / Emo",
+    "Debut Year": 2001,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 65
+  },
+  {
+    "Name": "Hellogoodbye",
+    "Genre": "Electropop / Power Pop",
+    "Debut Year": 2001,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 68
+  },
+  {
+    "Name": "Hot Mulligan",
+    "Genre": "Emo / Post-Hardcore",
+    "Debut Year": 2014,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 63
+  },
+  {
+    "Name": "Iggy Pop",
+    "Genre": "Punk / Proto-Alt Rock",
+    "Debut Year": 1967,
+    "Members": 1,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 83
+  },
+  {
+    "Name": "Incubus",
+    "Genre": "Alt Rock",
+    "Debut Year": 1991,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 88
+  },
+  {
+    "Name": "Interpol",
+    "Genre": "Post-Punk Revival",
+    "Debut Year": 1997,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 79
+  },
+  {
+    "Name": "INXS",
+    "Genre": "New Wave / Rock",
+    "Debut Year": 1977,
+    "Members": 5,
+    "Country": "🇦🇺",
+    "Frontperson": "Male",
+    "Popularity Score": 81
+  },
+  {
+    "Name": "Jane's Addiction",
+    "Genre": "Alt Rock / Psychedelic",
+    "Debut Year": 1985,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 73
+  },
+  {
+    "Name": "Jimmy Eat World",
+    "Genre": "Emo / Alt Rock",
+    "Debut Year": 1993,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 90
+  },
+  {
+    "Name": "Joy Division",
+    "Genre": "Post-Punk",
+    "Debut Year": 1976,
+    "Members": 4,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 86
+  },
+  {
+    "Name": "Joyce Manor",
+    "Genre": "Emo / Punk",
+    "Debut Year": 2011,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 62
+  },
+  {
+    "Name": "Kate Bush",
+    "Genre": "Art Pop / Experimental",
+    "Debut Year": 1975,
+    "Members": 1,
+    "Country": "🇬🇧",
+    "Frontperson": "Female",
+    "Popularity Score": 87
+  },
+  {
+    "Name": "LCD Soundsystem",
+    "Genre": "Dance-Punk / Indie Rock",
+    "Debut Year": 2002,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 84
+  },
+  {
+    "Name": "Linkin Park",
+    "Genre": "Alt Metal / Nu Metal",
+    "Debut Year": 1996,
+    "Members": 6,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 98
+  },
+  {
+    "Name": "Local Natives",
+    "Genre": "Indie Rock",
+    "Debut Year": 2008,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 67
+  },
+  {
+    "Name": "Mayday Parade",
+    "Genre": "Pop Punk / Emo",
+    "Debut Year": 2005,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 74
+  },
+  {
+    "Name": "Metric",
+    "Genre": "Indie Rock / Synthpop",
+    "Debut Year": 1998,
+    "Members": 4,
+    "Country": "🇨🇦",
+    "Frontperson": "Female",
+    "Popularity Score": 75
+  },
+  {
+    "Name": "MGMT",
+    "Genre": "Psychedelic Pop / Indie",
+    "Debut Year": 2007,
+    "Members": 2,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 86
+  },
+  {
+    "Name": "Modest Mouse",
+    "Genre": "Indie Rock / Experimental",
+    "Debut Year": 1993,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 87
+  },
+  {
+    "Name": "Moose Blood",
+    "Genre": "Emo / Pop Punk",
+    "Debut Year": 2012,
+    "Members": 4,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 60
+  },
+  {
+    "Name": "Motion City Soundtrack",
+    "Genre": "Pop Punk / Synth Rock",
+    "Debut Year": 1997,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 74
+  },
+  {
+    "Name": "Movements",
+    "Genre": "Post-Hardcore / Emo",
+    "Debut Year": 2015,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 65
+  },
+  {
+    "Name": "Muse",
+    "Genre": "Alt Rock / Space Rock",
+    "Debut Year": 1994,
+    "Members": 3,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 95
+  },
+  {
+    "Name": "My Bloody Valentine",
+    "Genre": "Shoegaze / Noise Rock",
+    "Debut Year": 1983,
+    "Members": 4,
+    "Country": "🇮🇪",
+    "Frontperson": "Male",
+    "Popularity Score": 72
+  },
+  {
+    "Name": "My Morning Jacket",
+    "Genre": "Indie Rock / Alt Country",
+    "Debut Year": 1998,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 69
+  },
+  {
+    "Name": "Neck Deep",
+    "Genre": "Pop Punk",
+    "Debut Year": 2012,
+    "Members": 5,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 75
+  },
+  {
+    "Name": "Neutral Milk Hotel",
+    "Genre": "Indie Rock / Folk",
+    "Debut Year": 1989,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 66
+  },
+  {
+    "Name": "New Found Glory",
+    "Genre": "Pop Punk",
+    "Debut Year": 1997,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 78
+  },
+  {
+    "Name": "New Order",
+    "Genre": "New Wave / Synthpop",
+    "Debut Year": 1980,
+    "Members": 5,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 83
+  },
+  {
+    "Name": "Nine Inch Nails",
+    "Genre": "Industrial Rock",
+    "Debut Year": 1988,
+    "Members": 1,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 90
+  },
+  {
+    "Name": "Nirvana",
+    "Genre": "Grunge",
+    "Debut Year": 1987,
+    "Members": 3,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 99
+  },
+  {
+    "Name": "No Doubt",
+    "Genre": "Ska Punk / Alt Rock",
+    "Debut Year": 1986,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Female",
+    "Popularity Score": 85
+  },
+  {
+    "Name": "Oasis",
+    "Genre": "Britpop",
+    "Debut Year": 1991,
+    "Members": 4,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 94
+  },
+  {
+    "Name": "Of Monsters and Men",
+    "Genre": "Indie Pop / Folk Rock",
+    "Debut Year": 2010,
+    "Members": 6,
+    "Country": "🇮🇸",
+    "Frontperson": "Female",
+    "Popularity Score": 78
+  },
+  {
+    "Name": "Panic! at the Disco",
+    "Genre": "Pop Rock / Emo Pop",
+    "Debut Year": 2004,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 92
+  },
+  {
+    "Name": "Paramore",
+    "Genre": "Pop Punk / Alt Rock",
+    "Debut Year": 2004,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Female",
+    "Popularity Score": 97
+  },
+  {
+    "Name": "Passion Pit",
+    "Genre": "Synthpop / Indie",
+    "Debut Year": 2007,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 74
+  },
+  {
+    "Name": "Pearl Jam",
+    "Genre": "Grunge / Alt Rock",
+    "Debut Year": 1990,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 93
+  },
+  {
+    "Name": "Phoenix",
+    "Genre": "Indie Pop / Synthpop",
+    "Debut Year": 1999,
+    "Members": 4,
+    "Country": "🇫🇷",
+    "Frontperson": "Male",
+    "Popularity Score": 80
+  },
+  {
+    "Name": "Pierce the Veil",
+    "Genre": "Post-Hardcore",
+    "Debut Year": 2006,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 85
+  },
+  {
+    "Name": "Pixies",
+    "Genre": "Alt Rock / Indie",
+    "Debut Year": 1986,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 88
+  },
+  {
+    "Name": "Portugal. The Man",
+    "Genre": "Psychedelic Rock / Indie",
+    "Debut Year": 2004,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 84
+  },
+  {
+    "Name": "Queens of the Stone Age",
+    "Genre": "Alt Rock / Stoner Rock",
+    "Debut Year": 1996,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 91
+  },
+  {
+    "Name": "R.E.M.",
+    "Genre": "Alt Rock / College Rock",
+    "Debut Year": 1980,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 88
+  },
+  {
+    "Name": "Radiohead",
+    "Genre": "Art Rock / Alt Rock",
+    "Debut Year": 1985,
+    "Members": 5,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 97
+  },
+  {
+    "Name": "Rage Against the Machine",
+    "Genre": "Rap Rock / Alt Metal",
+    "Debut Year": 1991,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 91
+  },
+  {
+    "Name": "Red Hot Chili Peppers",
+    "Genre": "Funk Rock / Alt Rock",
+    "Debut Year": 1983,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 99
+  },
+  {
+    "Name": "Saosin",
+    "Genre": "Post-Hardcore",
+    "Debut Year": 2003,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 70
+  },
+  {
+    "Name": "Say Anything",
+    "Genre": "Emo / Indie Rock",
+    "Debut Year": 2000,
+    "Members": 6,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 72
+  },
+  {
+    "Name": "Scary Kids Scaring Kids",
+    "Genre": "Post-Hardcore",
+    "Debut Year": 2002,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 61
+  },
+  {
+    "Name": "Senses Fail",
+    "Genre": "Post-Hardcore / Emo",
+    "Debut Year": 2002,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 74
+  },
+  {
+    "Name": "Silverstein",
+    "Genre": "Post-Hardcore / Screamo",
+    "Debut Year": 2000,
+    "Members": 5,
+    "Country": "🇨🇦",
+    "Frontperson": "Male",
+    "Popularity Score": 76
+  },
+  {
+    "Name": "Silversun Pickups",
+    "Genre": "Alt Rock / Shoegaze",
+    "Debut Year": 2002,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 71
+  },
+  {
+    "Name": "Simple Plan",
+    "Genre": "Pop Punk",
+    "Debut Year": 1999,
+    "Members": 5,
+    "Country": "🇨🇦",
+    "Frontperson": "Male",
+    "Popularity Score": 79
+  },
+  {
+    "Name": "Sleater-Kinney",
+    "Genre": "Indie Rock / Riot Grrrl",
+    "Debut Year": 1994,
+    "Members": 3,
+    "Country": "🇺🇸",
+    "Frontperson": "Female",
+    "Popularity Score": 69
+  },
+  {
+    "Name": "Sleeping With Sirens",
+    "Genre": "Post-Hardcore / Emo",
+    "Debut Year": 2009,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 78
+  },
+  {
+    "Name": "Sonic Youth",
+    "Genre": "Noise Rock / Alt Rock",
+    "Debut Year": 1981,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 80
+  },
+  {
+    "Name": "Soundgarden",
+    "Genre": "Grunge / Alt Rock",
+    "Debut Year": 1984,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 89
+  },
+  {
+    "Name": "Spoon",
+    "Genre": "Indie Rock",
+    "Debut Year": 1993,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 75
+  },
+  {
+    "Name": "State Champs",
+    "Genre": "Pop Punk",
+    "Debut Year": 2010,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 73
+  },
+  {
+    "Name": "Stone Temple Pilots",
+    "Genre": "Grunge / Alt Rock",
+    "Debut Year": 1989,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 86
+  },
+  {
+    "Name": "Story Of The Year",
+    "Genre": "Post-Hardcore / Emo",
+    "Debut Year": 2003,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 68
+  },
+  {
+    "Name": "Sublime",
+    "Genre": "Ska Punk / Reggae Rock",
+    "Debut Year": 1988,
+    "Members": 3,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 83
+  },
+  {
+    "Name": "Sufjan Stevens",
+    "Genre": "Indie Folk / Baroque Pop",
+    "Debut Year": 1999,
+    "Members": 1,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 77
+  },
+  {
+    "Name": "Sum 41",
+    "Genre": "Pop Punk / Alt Rock",
+    "Debut Year": 1996,
+    "Members": 4,
+    "Country": "🇨🇦",
+    "Frontperson": "Male",
+    "Popularity Score": 87
+  },
+  {
+    "Name": "Taking Back Sunday",
+    "Genre": "Emo / Post-Hardcore",
+    "Debut Year": 1999,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 84
+  },
+  {
+    "Name": "Talking Heads",
+    "Genre": "New Wave / Art Rock",
+    "Debut Year": 1975,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 82
+  },
+  {
+    "Name": "Tame Impala",
+    "Genre": "Psychedelic Pop / Indie",
+    "Debut Year": 2007,
+    "Members": 1,
+    "Country": "🇦🇺",
+    "Frontperson": "Male",
+    "Popularity Score": 96
+  },
+  {
+    "Name": "The 1975",
+    "Genre": "Alt Pop / Indie Rock",
+    "Debut Year": 2012,
+    "Members": 4,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 94
+  },
+  {
+    "Name": "The All-American Rejects",
+    "Genre": "Pop Punk / Alt Rock",
+    "Debut Year": 1999,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 80
+  },
+  {
+    "Name": "The B-52's",
+    "Genre": "New Wave / Alt Rock",
+    "Debut Year": 1976,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Female",
+    "Popularity Score": 74
+  },
+  {
+    "Name": "The Black Keys",
+    "Genre": "Blues Rock / Garage Rock",
+    "Debut Year": 2001,
+    "Members": 2,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 89
+  },
+  {
+    "Name": "The Cure",
+    "Genre": "Post-Punk / Gothic Rock",
+    "Debut Year": 1978,
+    "Members": 4,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 92
+  },
+  {
+    "Name": "The Devil Wears Prada",
+    "Genre": "Metalcore",
+    "Debut Year": 2005,
+    "Members": 6,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 73
+  },
+  {
+    "Name": "The Killers",
+    "Genre": "Alt Rock / New Wave",
+    "Debut Year": 2001,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 96
+  },
+  {
+    "Name": "The Kooks",
+    "Genre": "Indie Rock",
+    "Debut Year": 2004,
+    "Members": 4,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 78
+  },
+  {
+    "Name": "The Maine",
+    "Genre": "Pop Rock / Emo",
+    "Debut Year": 2007,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 72
+  },
+  {
+    "Name": "The Naked and Famous",
+    "Genre": "Indie Pop / Synthpop",
+    "Debut Year": 2007,
+    "Members": 5,
+    "Country": "🇳🇿",
+    "Frontperson": "Male",
+    "Popularity Score": 75
+  },
+  {
+    "Name": "The Neighbourhood",
+    "Genre": "Alt Pop / Indie Rock",
+    "Debut Year": 2011,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 87
+  },
+  {
+    "Name": "The New Pornographers",
+    "Genre": "Indie Rock / Power Pop",
+    "Debut Year": 1997,
+    "Members": 7,
+    "Country": "🇨🇦",
+    "Frontperson": "Male",
+    "Popularity Score": 66
+  },
+  {
+    "Name": "The Offspring",
+    "Genre": "Punk Rock / Alt Rock",
+    "Debut Year": 1984,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 90
+  },
+  {
+    "Name": "The Postal Service",
+    "Genre": "Indietronica",
+    "Debut Year": 2001,
+    "Members": 2,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 76
+  },
+  {
+    "Name": "The Red Jumpsuit Apparatus",
+    "Genre": "Post-Hardcore / Emo",
+    "Debut Year": 2003,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 77
+  },
+  {
+    "Name": "The Shins",
+    "Genre": "Indie Rock",
+    "Debut Year": 1996,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 83
+  },
+  {
+    "Name": "The Smashing Pumpkins",
+    "Genre": "Alt Rock / Grunge",
+    "Debut Year": 1988,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 91
+  },
+  {
+    "Name": "The Smiths",
+    "Genre": "Post-Punk",
+    "Debut Year": 1982,
+    "Members": 4,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 88
+  },
+  {
+    "Name": "The Starting Line",
+    "Genre": "Pop Punk / Emo",
+    "Debut Year": 1999,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 70
+  },
+  {
+    "Name": "The Story So Far",
+    "Genre": "Pop Punk / Melodic Hardcore",
+    "Debut Year": 2007,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 79
+  },
+  {
+    "Name": "The Strokes",
+    "Genre": "Garage Rock Revival",
+    "Debut Year": 1998,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 95
+  },
+  {
+    "Name": "The Struts",
+    "Genre": "Glam Rock / Indie",
+    "Debut Year": 2012,
+    "Members": 4,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 68
+  },
+  {
+    "Name": "The Used",
+    "Genre": "Post-Hardcore / Emo",
+    "Debut Year": 2001,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 86
+  },
+  {
+    "Name": "The Velvet Underground",
+    "Genre": "Art Rock / Proto-Punk",
+    "Debut Year": 1964,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 82
+  },
+  {
+    "Name": "The War on Drugs",
+    "Genre": "Indie Rock / Heartland Rock",
+    "Debut Year": 2005,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 84
+  },
+  {
+    "Name": "The White Stripes",
+    "Genre": "Garage Rock / Alt Rock",
+    "Debut Year": 1997,
+    "Members": 2,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 89
+  },
+  {
+    "Name": "The xx",
+    "Genre": "Indie Pop / Dream Pop",
+    "Debut Year": 2005,
+    "Members": 3,
+    "Country": "🇬🇧",
+    "Frontperson": "Female",
+    "Popularity Score": 84
+  },
+  {
+    "Name": "Third Eye Blind",
+    "Genre": "Alt Rock / Power Pop",
+    "Debut Year": 1993,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 82
+  },
+  {
+    "Name": "Thrice",
+    "Genre": "Post-Hardcore / Emo",
+    "Debut Year": 1998,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 80
+  },
+  {
+    "Name": "Turnstile",
+    "Genre": "Hardcore Punk / Alt Rock",
+    "Debut Year": 2010,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 79
+  },
+  {
+    "Name": "TV On The Radio",
+    "Genre": "Experimental Rock / Indie",
+    "Debut Year": 2001,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 75
+  },
+  {
+    "Name": "Twenty One Pilots",
+    "Genre": "Alt Pop / Electropop",
+    "Debut Year": 2009,
+    "Members": 2,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 98
+  },
+  {
+    "Name": "Two Door Cinema Club",
+    "Genre": "Indie Rock / Dance Rock",
+    "Debut Year": 2007,
+    "Members": 3,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 78
+  },
+  {
+    "Name": "Underoath",
+    "Genre": "Post-Hardcore / Metalcore",
+    "Debut Year": 1997,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 77
+  },
+  {
+    "Name": "Vampire Weekend",
+    "Genre": "Indie Rock / Baroque Pop",
+    "Debut Year": 2006,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 89
+  },
+  {
+    "Name": "Violent Femmes",
+    "Genre": "Folk Punk / Alt Rock",
+    "Debut Year": 1980,
+    "Members": 3,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 70
+  },
+  {
+    "Name": "Weezer",
+    "Genre": "Alt Rock / Power Pop",
+    "Debut Year": 1992,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 97
+  },
+  {
+    "Name": "Wilco",
+    "Genre": "Alt Country / Indie Rock",
+    "Debut Year": 1994,
+    "Members": 6,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 81
+  },
+  {
+    "Name": "Yeah Yeah Yeahs",
+    "Genre": "Indie Rock / Art Punk",
+    "Debut Year": 2000,
+    "Members": 3,
+    "Country": "🇺🇸",
+    "Frontperson": "Female",
+    "Popularity Score": 87
+  },
+  {
+    "Name": "Yellowcard",
+    "Genre": "Pop Punk / Emo",
+    "Debut Year": 1997,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 76
+  },
+  {
+    "Name": "Young the Giant",
+    "Genre": "Alt Rock / Indie",
+    "Debut Year": 2004,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 84
+  },
+  {
+    "Name": "The National",
+    "Genre": "Indie Rock / Chamber Pop",
+    "Debut Year": 1999,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 88
+  },
+  {
+    "Name": "The Mars Volta",
+    "Genre": "Progressive Rock / Experimental",
+    "Debut Year": 2001,
+    "Members": 6,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 74
+  },
+  {
+    "Name": "At the Drive-In",
+    "Genre": "Post-Hardcore / Prog Punk",
+    "Debut Year": 1993,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 78
+  },
+  {
+    "Name": "Dead Poet Society",
+    "Genre": "Alt Metal / Art Rock",
+    "Debut Year": 2013,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 64
+  },
+  {
+    "Name": "Enter Shikari",
+    "Genre": "Electronicore / Post-Hardcore",
+    "Debut Year": 2003,
+    "Members": 4,
+    "Country": "🇬🇧",
+    "Frontperson": "Male",
+    "Popularity Score": 72
+  },
+  {
+    "Name": "The Wonder Years",
+    "Genre": "Pop Punk / Emo",
+    "Debut Year": 2005,
+    "Members": 6,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 79
+  },
+  {
+    "Name": "Real Friends",
+    "Genre": "Pop Punk / Emo",
+    "Debut Year": 2010,
+    "Members": 5,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 68
+  },
+  {
+    "Name": "Knuckle Puck",
+    "Genre": "Pop Punk",
+    "Debut Year": 2011,
+    "Members": 4,
+    "Country": "🇺🇸",
+    "Frontperson": "Male",
+    "Popularity Score": 66
+  }
+]
