@@ -464,3 +464,51 @@ ul li:hover {
 .hint-text {
   font-size: 1rem;
 }
+
+/* Mobile Styles */
+@media (max-width: 600px) {
+  .subtitle {
+    font-size: 1.2rem;
+  }
+
+  .result {
+    font-size: 1.6rem;
+  }
+
+  .input-block {
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: stretch;
+  }
+
+  .input-block > div {
+    padding-right: 0;
+  }
+
+  .input-block input[type="text"] {
+    width: 100%;
+    margin: 0;
+    box-sizing: border-box;
+  }
+
+  .input-block button {
+    width: 100%;
+    margin-top: 0.5rem;
+    min-width: unset;
+  }
+
+  ul {
+    top: auto;
+    position: static;
+  }
+
+  .hint-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 0.5rem;
+  }
+
+  .guess-block img {
+    max-width: 100%;
+  }
+}
